@@ -383,7 +383,7 @@ a.nav-link.sec-t {
 
     background-color: #FB8500;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
+    position: relative;
 }
 
 .sec-to-bg::before {
@@ -404,8 +404,10 @@ a.nav-link.sec-t {
     background-repeat: no-repeat;
     height: 322px;
     width: 213px;
-    margin-left: 1108px;
-    margin-top: -322px;
+    right: 0px;
+    left: auto;
+    margin: auto;
+    bottom: 0px;
 
 }
 
