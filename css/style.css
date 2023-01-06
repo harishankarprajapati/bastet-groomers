@@ -145,6 +145,20 @@
         margin-top: 327px;
     }
 
+    .sec-btn {
+        font-family: 'Hanken Grotesk';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 109.8%;
+        text-align: center;
+        color: #FFFFFF;
+        background: #C75428;
+        padding: 18px 70px !important;
+        border: none;
+
+    }
+
 }
 
 @media (max-width:1024px) {
@@ -477,21 +491,22 @@ a.nav-link.sec-t {
     z-index: 10;
 }
 
-.sec-btn-ad{
-    
-font-family: 'HankenGrotesk-Medium';
-font-style: normal;
-font-weight: 700;
-font-size: 25px;
-line-height: 33px;
-color: #FFFFFF;
-padding: 5px 20px;
-background: #C75428;
-border-radius: 2px;
-text-decoration: none;
+.sec-btn-ad {
+
+    font-family: 'HankenGrotesk-Medium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 33px;
+    color: #FFFFFF;
+    padding: 5px 20px;
+    background: #C75428;
+    border-radius: 2px;
+    text-decoration: none;
 
 }
-.sec-btn-ad:hover{
+
+.sec-btn-ad:hover {
     text-decoration: none;
     color: #fff;
 }
@@ -631,4 +646,215 @@ text-decoration: none;
     text-align: center;
     color: #000000;
 
+}
+
+.sec-ab-p {
+    font-family: 'HankenGrotesk-Medium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    color: #000000;
+}
+
+.sec-btn-a {
+    font-family: 'HankenGrotesk-Medium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 33px;
+    color: #FFFFFF;
+    background: #C75428;
+    padding: 10px 30px;
+    text-decoration: none;
+
+}
+
+.sec-btn-a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/*----------------cat-training-------------- */
+.sec-train-bg {
+    background-image: url(../images/Rectangle\ 17.png);
+    background-repeat: no-repeat;
+    margin-top: 30px;
+}
+
+.sec-logo-white p {
+    font-family: 'HankenGrotesk-Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 33px;
+    color: #FFFFFF;
+
+}
+
+.sec-train {
+
+    font-family: 'HankenGrotesk-ExtraBold';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 59px;
+    text-align: center;
+    color: #000000;
+    padding-top: 30px;
+
+
+}
+
+.sec-tr-p {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    color: #333333;
+}
+
+.sec-train-fo {
+    font-family: 'HankenGrotesk-ExtraBold';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color: #000000;
+    padding: 30px 0px;
+
+}
+
+.sec-fri-p {
+
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 33px;
+    color: #333333;
+
+}
+
+.sec-fri-p2 {
+
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #333333;
+
+}
+
+.sec-pack {
+
+    font-family: 'HankenGrotesk-ExtraBold';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.sec-pack-2 {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+}
+
+.sec-pack-price {
+
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: right;
+    color: #C75428;
+}
+
+.sec-icon-pri {
+    color: #C75428;
+    font-size: 16px;
+    padding-right: 10px;
+}
+
+.sec-price-p {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #333333;
+
+}
+
+.sec-btn-pric-a {
+    font-family: 'HankenGrotesk-Medium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #C75428;
+    padding: 10px 80px;
+    text-decoration: none;
+}
+
+.sec-btn-pric-a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.sec-colum {
+    width: 60%;
+}
+
+/* ------refund------ */
+
+
+.sec-refund-bg h2 {
+
+    font-family: 'HankenGrotesk-ExtraBold';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 59px;
+    text-align: center;
+    color: #000000;
+}
+
+.sec-refund-bg p {
+    font-family: 'HankenGrotesk-Medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 33px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #333333;
+
+}
+
+.sec-ref-p {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    color: #666666;
+
+}
+.sec-refund-w{
+    width: 65%;
 }
