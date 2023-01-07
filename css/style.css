@@ -239,6 +239,15 @@
     margin: 0px;
 }
 
+a.dropdown-item {
+    font-family: 'HankenGrotesk-Medium';
+    font-style: normal;
+    font-size: 22px;
+    line-height: 20px;
+    color: #023047 !important;
+    padding: 10px 20px !important;
+}
+
 .sec-btn2 {
     font-family: 'HankenGrotesk-ExtraBold';
     font-style: normal;
@@ -855,6 +864,80 @@ a.nav-link.sec-t {
     color: #666666;
 
 }
-.sec-refund-w{
+
+.sec-refund-w {
     width: 65%;
+}
+
+/* --------------career------------ */
+.sec-caree-bg {
+    background-image: url(../images/Rectangle\ 17c.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 30px;
+}
+
+.sec-cresa-p {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.sec-cree-pp {
+
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 33px;
+    text-align: center;
+    text-decoration: none !important;
+    color: #333333;
+}
+
+.sec-form-w {
+    width: 45%;
+}
+
+.sec-for-h {
+    font-family: 'HankenGrotesk-ExtraBold';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 98.8%;
+    color: #333333;
+}
+
+label {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 109.8%;
+    color: #333333;
+}
+
+input.form-control {
+    border-radius: 0;
+    background-color: #f3f3f3;
+}
+
+.sec-btn-for {
+    font-family: 'HankenGrotesk-Medium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #C75428;
+    padding: 8px 30px;
+    border: none;
+    border-radius: 5px;
+
 }
