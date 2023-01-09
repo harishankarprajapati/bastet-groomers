@@ -974,3 +974,23 @@ input.form-control {
     color: #666666;
 
 }
+
+/* -------------PRIVACY POLICIES------------- */
+.sec-privacy-h {
+    font-family: 'HankenGrotesk-Medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+text-transform: uppercase;
+    color: #000000;
+}
+
+.sec-privacy-p {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    color: #666666;
+}
