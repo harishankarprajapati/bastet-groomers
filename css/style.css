@@ -63,9 +63,9 @@
         color: #FFFFFF;
         padding-top: 15px;
     }
-    
-    element.style {
-    }
+
+    element.style {}
+
     .sec-logo-white p {
         font-family: 'HankenGrotesk-Medium';
         font-style: normal;
@@ -73,8 +73,9 @@
         font-size: 13px !important;
         line-height: 0;
         color: #FFFFFF;
-    
+
     }
+
     .sec-btn-a {
         font-family: 'HankenGrotesk-Medium';
         font-style: normal;
@@ -86,6 +87,7 @@
         padding: 10px 30px;
         text-decoration: none;
     }
+
     .sec-how-h {
         font-family: 'HankenGrotesk-ExtraBold';
         font-style: normal;
@@ -94,6 +96,16 @@
         line-height: 109.8% !important;
         color: #000;
     }
+
+    .sec-how-h2 {
+        font-family: 'HankenGrotesk-ExtraBold';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 28px !important;
+        line-height: 109.8% !important;
+        color: #000;
+    }
+
     .sec-hero-h::before {
         content: "";
         position: absolute;
@@ -111,7 +123,8 @@
         line-height: 109.8%;
         color: #023047;
     }
-    .sec-logo-white{
+
+    .sec-logo-white {
         padding-bottom: 0px !important;
     }
 
@@ -167,9 +180,9 @@
     }
 
     .sec-how-icon {
-        font-size: 17px;
-        line-height: 109.8%;
-        margin: 0px;
+        font-size: 17px !important;
+        line-height: 109.8% !important;
+        margin: 0px !important;
     }
 
     .sec-how-icon-p {
@@ -185,11 +198,28 @@
         height: 178px !important;
         border: 1px solid rgb(255, 255, 255);
         margin-left: 17px !important;
-        
+
     }
-    .sec-text-bef{
+
+    .sec-text-bef2::before {
+        content: "";
+        position: absolute;
+        color: rgb(255, 255, 255);
+        background-repeat: no-repeat;
+        height: 355px !important;
+        border: 1px solid rgb(255, 255, 255);
+        margin-left: 23px !important;
+
+    }
+
+    .sec-text-bef {
         padding-top: 0px !important;
     }
+
+    .sec-text-bef2 {
+        padding-top: 0px !important;
+    }
+
     .sec-btn {
         font-family: 'Hanken Grotesk';
         font-style: normal;
@@ -204,6 +234,26 @@
 
     }
 
+    .sec-colum {
+        width: 100% !important;
+    }
+
+    .sec-btn-pric-a {
+        font-family: 'HankenGrotesk-Medium';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px !important;
+        line-height: 26px;
+        text-align: center;
+        color: #FFFFFF;
+        background: #C75428;
+        padding: 11px 43px !important;
+        text-decoration: none;
+    }
+
+    .sec-vet-img {
+        width: 100% !important;
+    }
 }
 
 @media (max-width:1024px) {
@@ -270,9 +320,10 @@
 
 /*----------------------- index----------------- */
 /* poppup */
-.sec-ppppp{
+.sec-ppppp {
     padding-left: 50px;
 }
+
 .sec-pop-bg {
     background-color: #C75428;
     border-radius: 16px;
@@ -492,11 +543,16 @@ a.nav-link.sec-t {
     margin-top: 3px;
 }
 
+
 .sec-show {
     min-height: 570px;
 }
 
 .sec-text-bef {
+    padding-top: 90px !important;
+}
+
+.sec-text-bef2 {
     padding-top: 90px !important;
 }
 
@@ -508,6 +564,7 @@ a.nav-link.sec-t {
     font-size: 17px;
     background-color: #fff;
 }
+
 .sec-round2 {
     border-radius: 30px;
     padding: 9px;
@@ -515,6 +572,7 @@ a.nav-link.sec-t {
     font-size: 17px;
     background-color: #fff;
 }
+
 .sec-how-h {
     font-family: 'HankenGrotesk-ExtraBold';
     font-style: normal;
@@ -1036,7 +1094,7 @@ input.form-control {
     font-weight: 600;
     font-size: 22px;
     line-height: 29px;
-text-transform: uppercase;
+    text-transform: uppercase;
     color: #000000;
 }
 
@@ -1056,4 +1114,210 @@ text-transform: uppercase;
     background-image: url(../images/Rectangle\ 171.png);
     background-repeat: no-repeat;
     margin-top: 30px;
+}
+
+.sec-vet-bg-2 {
+    background-color: #8080B9;
+}
+
+.sec-vet-bg-3 {
+    background-image: url(../images/image\ 6.png);
+    background-repeat: no-repeat;
+}
+
+.sec-vet-h {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 52px;
+
+    color: #FFFFFF;
+
+}
+
+.sec-vet-p {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.sec-vet-btn {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 33px;
+    color: #000000;
+    background-color: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.sec-vet-btn:hover {
+    color: #000000;
+    background-color: #fff;
+}
+
+.sec-vet-pack {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 33px;
+    text-align: left;
+    text-decoration: none;
+    color: #333333;
+
+}
+
+.sec-vet-pack2 {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 33px;
+    text-decoration: none;
+    color: #333333;
+
+
+}
+
+.sec-vet-pack3 {
+    padding-left: 40%;
+}
+
+#main {
+    margin: 50px 0;
+}
+
+#main #faq .card {
+    margin-bottom: 30px;
+    border: 0;
+}
+
+#main #faq .card .card-header {
+    border: 0;
+    -webkit-box-shadow: 0 0 20px 0 rgba(213, 213, 213, 0.5);
+    box-shadow: 0 0 20px 0 rgba(213, 213, 213, 0.5);
+    border-radius: 2px;
+    padding: 0;
+}
+
+#faq .card .card-header .btn-header-link {
+    color: #fff;
+    display: block;
+    text-align: left;
+    background: #FFF;
+    box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.25);
+    color: #222;
+    padding: 20px;
+    border-radius: 0;
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #333333;
+}
+
+#main #faq .card .card-header .btn-header-link:after {
+    content: "\f107";
+    font-family: 'Font Awesome 5 Free';
+
+    font-weight: 900;
+    float: right;
+}
+
+.card-body {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #666666;
+}
+
+
+
+#main #faq .card .card-header .btn-header-link.collapsed:after {
+    content: "\f106";
+}
+
+#main #faq .card .collapsing {
+    background: #FFF;
+    line-height: 30px;
+    box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.25);
+}
+
+#main #faq .card .collapse {
+    border: 0;
+}
+
+#main #faq .card .collapse.show {
+    background: #FFF;
+    line-height: 30px;
+    color: #222;
+    box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.25);
+}
+
+/* -----------------Pet Adoption---------------- */
+
+.sec-adop-bg {
+    background-image: url(../images/Rectangle\ 1723.png);
+    background-repeat: no-repeat;
+    margin-top: 30px;
+}
+
+.sec-text-bef2::before {
+    content: "";
+    position: absolute;
+    color: #000;
+    background-repeat: no-repeat;
+    height: 405px;
+    border: 1px solid #000;
+    margin-left: 20px;
+    margin-top: 3px;
+}
+
+.sec-how-h2 {
+    font-family: 'HankenGrotesk-ExtraBold';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 109.8%;
+    color: #000;
+}
+
+.sec-adop-bg2 {
+    background-image: url(../images/Rectangle\ 48.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+}
+
+.sec-adop-h3 {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 59px;
+    color: #FFFFFF;
+
+}
+
+.sec-adop-pp {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+
+
 }
