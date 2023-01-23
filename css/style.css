@@ -1646,7 +1646,7 @@ form.example button {
     }
 
     .sec-logo-white {
-        padding-bottom: 0px !important;
+        padding: 10px !important;
     }
 
     .sec-hero-h {
