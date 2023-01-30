@@ -1076,7 +1076,30 @@ input.form-control {
     background-repeat: no-repeat;
     margin-top: 30px;
 }
+.sec-btn-a2{
+    font-family: 'HankenGrotesk-Medium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 33px;
+    color: #FFFFFF;
+    background: #25d366;
+    padding: 10px 30px;
+    text-decoration: none;
 
+}
+.sec-btn-a2:hover{
+    font-family: 'HankenGrotesk-Medium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 33px;
+    color: #FFFFFF;
+    background: #25d366;
+    padding: 10px 30px;
+    border: 1px solid #fff;
+
+}
 .sec-text-bef2::before {
     content: "";
     position: absolute;
