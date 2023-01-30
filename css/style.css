@@ -1535,6 +1535,11 @@ form.example button {
     padding-top: 116%;
 
 }
+.sec-adop-bg6{
+    background-image: url(../images/HS2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 @media only screen and (max-width: 767px) {
     p {
