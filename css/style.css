@@ -14,7 +14,18 @@
 }
 
 /*----------------------- index----------------- */
-
+/* a.nav-link.sec-t:active {
+    border-bottom: 2px solid red;
+} */
+/* --- */
+#menu-main-menu li a:hover {
+    border-bottom: 3px solid red;
+  }
+  
+  #menu-main-menu li:active {
+    border-bottom: 3px solid red !important;
+}
+  /*  */
 .mobile-resp{
     display: none;
 }
