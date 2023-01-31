@@ -929,6 +929,7 @@ input.form-control {
     background-image: url(../images/Rectangle\ 171.png);
     background-repeat: no-repeat;
     margin-top: 30px;
+    background-size: cover;
 }
 
 .sec-vet-bg-2 {
