@@ -30,7 +30,7 @@
     display: none;
 }
 button.navbar-toggler.bg-dark {
-    background-color: #C75428 !important;
+    background-color: #0047AB !important;
 }
 .sec-foter-bg {
     background-color: #000000;
@@ -140,7 +140,7 @@ button.navbar-toggler.bg-dark {
 }
 
 .sec-pop-bg {
-    background-color: #C75428;
+    background-color: #0047AB;
     border-radius: 16px;
 }
 
@@ -168,7 +168,7 @@ a.dropdown-item {
     font-weight: 900;
     font-size: 16px;
     line-height: 180.55%;
-    color: #C75428;
+    color: #0047AB;
     background-color: #fff;
     padding: 2px 18px;
     border-radius: 5px;
@@ -194,7 +194,7 @@ a.dropdown-item {
     font-size: 18px;
     line-height: 23px;
     color: #FFFFFF;
-    background: #C75428;
+    background: #0047AB;
     border-radius: 2px;
     padding: 5px 20px;
     text-decoration: none;
@@ -295,7 +295,7 @@ a.nav-link.sec-t {
     line-height: 109.8%;
     text-align: center;
     color: #FFFFFF;
-    background: #C75428;
+    background: #0047AB;
     padding: 21px 86px;
     border: none;
 
@@ -320,7 +320,7 @@ a.nav-link.sec-t {
     color: #ffffff;
     outline: none;
     border: 1px solid #ffffff;
-    background-color: #C75428;
+    background-color: #0047AB;
 
 }
 
@@ -383,7 +383,7 @@ a.nav-link.sec-t {
 .sec-round2 {
     border-radius: 30px;
     padding: 9px;
-    color: #C75428;
+    color: #0047AB;
     font-size: 17px;
     background-color: #fff;
 }
@@ -436,7 +436,7 @@ a.nav-link.sec-t {
     line-height: 33px;
     color: #FFFFFF;
     padding: 5px 20px;
-    background: #C75428;
+    background: #0047AB;
     border-radius: 2px;
     text-decoration: none;
 
@@ -467,7 +467,7 @@ a.nav-link.sec-t {
     font-size: 18px;
     line-height: 23px;
     padding-top: 40px;
-    color: #C75428;
+    color: #0047AB;
 
 }
 
@@ -530,7 +530,7 @@ a.nav-link.sec-t {
     font-weight: 900;
     font-size: 30px;
     line-height: 39px;
-    color: #C75428;
+    color: #0047AB;
     text-decoration: none;
 }
 
@@ -601,7 +601,7 @@ a.nav-link.sec-t {
     font-size: 19px;
     line-height: 33px;
     color: #FFFFFF;
-    background: #C75428;
+    background: #0047AB;
     padding: 10px 30px;
     text-decoration: none;
 
@@ -715,11 +715,11 @@ a.nav-link.sec-t {
     font-size: 16px;
     line-height: 21px;
     text-align: right;
-    color: #C75428;
+    color: #0047AB;
 }
 
 .sec-icon-pri {
-    color: #C75428;
+    color: #0047AB;
     font-size: 16px;
     padding-right: 10px;
 }
@@ -742,7 +742,7 @@ a.nav-link.sec-t {
     line-height: 26px;
     text-align: center;
     color: #FFFFFF;
-    background: #C75428;
+    background: #0047AB;
     padding: 10px 80px;
     text-decoration: none;
 }
@@ -862,7 +862,7 @@ input.form-control {
     line-height: 26px;
     text-align: center;
     color: #FFFFFF;
-    background: #C75428;
+    background: #0047AB;
     padding: 8px 30px;
     border: none;
     border-radius: 5px;
@@ -1181,7 +1181,7 @@ input.form-control {
     line-height: 124.8%;
     color: #FFFFFF;
     padding: 5px 15px;
-    background: #C75428;
+    background: #0047AB;
     border-radius: 3px;
     text-decoration: none;
 
@@ -1253,7 +1253,7 @@ input.form-control {
     line-height: 124.8%;
     color: #FFFFFF;
     padding: 5px 15px;
-    background: #C75428;
+    background: #0047AB;
     border-radius: 3px;
     text-decoration: none;
 
@@ -1264,7 +1264,7 @@ input.form-control {
 }
 
 .sec-bg-colo {
-    background: #C75428;
+    background: #0047AB;
 }
 
 .sec-colo-p {
@@ -1292,7 +1292,7 @@ input.form-control {
     font-weight: 600;
     font-size: 10px;
     line-height: 124.8%;
-    color: #C75428;
+    color: #0047AB;
     padding: 5px 15px;
     background: #FFFFFF;
     border-radius: 3px;
@@ -1300,7 +1300,7 @@ input.form-control {
 }
 
 .sec-form-btn:hover {
-    color: #C75428 !important;
+    color: #0047AB !important;
     border-radius: 3px;
     background: #FFFFFF !important;
 }
@@ -1364,7 +1364,7 @@ form.example button {
     line-height: 33px;
     color: #FFFFFF;
     padding: 10px 30px;
-    background: #C75428;
+    background: #0047AB;
     border-radius: 2px;
     text-decoration: none;
 }
@@ -1409,7 +1409,7 @@ form.example button {
     line-height: 33px;
     color: #FFFFFF;
     padding: 10px 30px;
-    background: #C75428;
+    background: #0047AB;
     border-radius: 2px;
     text-decoration: none;
 }
@@ -1475,7 +1475,7 @@ form.example button {
     font-weight: 900;
     font-size: 25px;
     line-height: 23px;
-    color: #C75428;
+    color: #0047AB;
 
 }
 
@@ -1501,7 +1501,7 @@ form.example button {
 }
 
 .sec-toy-btn:hover {
-    color: #C75428;
+    color: #0047AB;
 }
 
 .sec-toy-btn2 {
@@ -1511,7 +1511,7 @@ form.example button {
     font-size: 14px;
     line-height: 13px;
     color: #FFFFFF;
-    background: #C75428;
+    background: #0047AB;
     padding: 10px 20px;
     text-decoration: none;
 }
@@ -1545,7 +1545,7 @@ form.example button {
     line-height: 18px;
     color: #FFFFFF;
     padding: 8px 25px;
-    background: #C75428;
+    background: #0047AB;
     border-radius: 2px;
     text-decoration: none;
 }
@@ -1578,18 +1578,18 @@ form.example button {
 /* cat-grooming */
 .btn-orange {
     color: #ffffff!important;
-    background-color: #C75428!important;
-    border-color: #C75428!important;
+    background-color: #0047AB!important;
+    border-color: #0047AB!important;
 }
 .text-orange {
-    color: #C75428;
+    color: #0047AB;
 }
 .Sec-but {
     color: #ffffff !important;
-    background-color: #C75428 !important;
+    background-color: #0047AB !important;
     font-weight: bold !important;
     font-size: 17px !important;
-    border: 1px solid#C75428 !important;
+    border: 1px solid#0047AB !important;
     border-radius: 6px;
     font-weight: 400 !important;
     text-transform: uppercase;
@@ -1662,7 +1662,7 @@ form.example button {
         font-size: 14px !important;
         line-height: 33px !important;
         color: #FFFFFF;
-        background: #C75428;
+        background: #0047AB;
         padding: 10px 30px;
         text-decoration: none;
     }
@@ -1807,7 +1807,7 @@ form.example button {
         line-height: 109.8%;
         text-align: center;
         color: #FFFFFF;
-        background: #C75428;
+        background: #0047AB;
         padding: 18px 70px !important;
         border: none;
 
@@ -1825,7 +1825,7 @@ form.example button {
         line-height: 26px;
         text-align: center;
         color: #FFFFFF;
-        background: #C75428;
+        background: #0047AB;
         padding: 11px 43px !important;
         text-decoration: none;
     }
