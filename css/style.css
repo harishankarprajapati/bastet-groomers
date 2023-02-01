@@ -1575,7 +1575,25 @@ form.example button {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+/* cat-grooming */
+.btn-orange {
+    color: #ffffff!important;
+    background-color: #C75428!important;
+    border-color: #C75428!important;
+}
+.text-orange {
+    color: #C75428;
+}
+.Sec-but {
+    color: #ffffff !important;
+    background-color: #C75428 !important;
+    font-weight: bold !important;
+    font-size: 17px !important;
+    border: 1px solid#C75428 !important;
+    border-radius: 6px;
+    font-weight: 400 !important;
+    text-transform: uppercase;
+}
 @media only screen and (max-width: 767px) {
     p {
         font-size: 20px;
