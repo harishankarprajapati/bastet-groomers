@@ -1506,6 +1506,14 @@ form.example button {
     text-transform: uppercase;
 }
 
+.sec-icon2 {
+    font-size: 22px;
+    padding-left: 20px;
+
+}
+.sec-icon-p{
+    color: #0047AB;
+}
 @media (max-width:1024px) {
     .sec-how-p::after {
         content: "";
