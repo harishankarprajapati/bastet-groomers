@@ -14,23 +14,12 @@
 }
 
 /*----------------------- index----------------- */
-/* a.nav-link.sec-t:active {
-    border-bottom: 2px solid red;
-} */
-/* --- */
-#menu-main-menu li a:hover {
-    border-bottom: 3px solid red;
-}
-
-#menu-main-menu li:active {
-    border-bottom: 3px solid red !important;
-}
-
-/*  */
 .mobile-resp {
     display: none;
 }
-
+.sev-mobile{
+    display: none;
+}
 button.navbar-toggler.bg-dark {
     background-color: #0047AB !important;
 }
@@ -69,72 +58,6 @@ button.navbar-toggler.bg-dark {
     color: #FFFFFF;
 }
 
-
-
-
-
-
-@media (max-width:1024px) {
-    .sec-how-p::after {
-        content: "";
-        position: absolute;
-        background-image: url(../images/aaaaLayer\ 0\ 1.png);
-        background-repeat: no-repeat;
-        height: 243px;
-        width: 325px;
-        margin-left: -118px;
-        margin-top: 67px;
-        background-size: 100%;
-    }
-
-    .sec-how-bg {
-        background-color: #FF9721;
-        padding-bottom: 14px;
-    }
-
-    .sec-befo::before {
-        content: "";
-        position: absolute;
-        background: rgb(251 133 0 / 42%);
-        filter: blur(72px);
-        height: 124px;
-        width: 180px;
-        margin-left: 169px;
-        margin-top: -181px;
-        z-index: 1;
-    }
-
-    .sec-how-bg::after {
-        content: "";
-        position: absolute;
-        background-image: url(../images/Group\ 23.png);
-        background-repeat: no-repeat;
-        height: 453px;
-        width: 213px;
-        margin-left: -12px;
-        margin-top: -361px;
-    }
-
-    .sec-to-bg::before {
-        display: none;
-    }
-
-    .sec-to-bg::after {
-        display: none;
-    }
-
-    .sec-img {
-        width: 100%;
-    }
-
-    .sec-img-r {
-        width: 100% !important;
-    }
-
-    .sec-show {
-        min-height: 500px !important;
-    }
-}
 
 /*----------------------- index----------------- */
 /* poppup */
@@ -629,7 +552,6 @@ a.nav-link.sec-t {
     font-size: 25px;
     line-height: 33px;
     color: #FFFFFF;
-
 }
 
 .sec-train {
@@ -642,8 +564,6 @@ a.nav-link.sec-t {
     text-align: center;
     color: #000000;
     padding-top: 30px;
-
-
 }
 
 .sec-tr-p {
@@ -665,33 +585,27 @@ a.nav-link.sec-t {
     text-align: center;
     color: #000000;
     padding: 30px 0px;
-
 }
 
 .sec-fri-p {
-
     font-family: 'Hanken Grotesk';
     font-style: normal;
     font-weight: 700;
     font-size: 25px;
     line-height: 33px;
     color: #333333;
-
 }
 
 .sec-fri-p2 {
-
     font-family: 'Hanken Grotesk';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 23px;
     color: #333333;
-
 }
 
 .sec-pack {
-
     font-family: 'HankenGrotesk-ExtraBold';
     font-style: normal;
     font-weight: 900;
@@ -711,7 +625,6 @@ a.nav-link.sec-t {
 }
 
 .sec-pack-price {
-
     font-family: 'Hanken Grotesk';
     font-style: normal;
     font-weight: 900;
@@ -758,12 +671,8 @@ a.nav-link.sec-t {
 .sec-colum {
     width: 60%;
 }
-
 /* ------refund------ */
-
-
 .sec-refund-bg h2 {
-
     font-family: 'HankenGrotesk-ExtraBold';
     font-style: normal;
     font-weight: 900;
@@ -782,7 +691,6 @@ a.nav-link.sec-t {
     text-align: center;
     text-decoration-line: underline;
     color: #333333;
-
 }
 
 .sec-ref-p {
@@ -792,7 +700,6 @@ a.nav-link.sec-t {
     font-size: 18px;
     line-height: 23px;
     color: #666666;
-
 }
 
 .sec-refund-w {
@@ -814,12 +721,10 @@ a.nav-link.sec-t {
     font-size: 14px;
     line-height: 18px;
     text-align: center;
-
     color: #FFFFFF;
 }
 
 .sec-cree-pp {
-
     font-family: 'Hanken Grotesk';
     font-style: normal;
     font-weight: 600;
@@ -894,7 +799,6 @@ input.form-control {
 }
 
 .sec-recv-p3 {
-
     font-family: 'Hanken Grotesk';
     font-style: normal;
     font-weight: 600;
@@ -950,7 +854,6 @@ input.form-control {
     font-weight: 900;
     font-size: 40px;
     line-height: 52px;
-
     color: #FFFFFF;
 
 }
@@ -1001,8 +904,6 @@ input.form-control {
     line-height: 33px;
     text-decoration: none;
     color: #333333;
-
-
 }
 
 .sec-vet-pack3 {
@@ -1605,6 +1506,68 @@ form.example button {
     text-transform: uppercase;
 }
 
+@media (max-width:1024px) {
+    .sec-how-p::after {
+        content: "";
+        position: absolute;
+        background-image: url(../images/aaaaLayer\ 0\ 1.png);
+        background-repeat: no-repeat;
+        height: 243px;
+        width: 325px;
+        margin-left: -118px;
+        margin-top: 67px;
+        background-size: 100%;
+    }
+
+    .sec-how-bg {
+        background-color: #FF9721;
+        padding-bottom: 14px;
+    }
+
+    .sec-befo::before {
+        content: "";
+        position: absolute;
+        background: rgb(251 133 0 / 42%);
+        filter: blur(72px);
+        height: 124px;
+        width: 180px;
+        margin-left: 169px;
+        margin-top: -181px;
+        z-index: 1;
+    }
+
+    .sec-how-bg::after {
+        content: "";
+        position: absolute;
+        background-image: url(../images/Group\ 23.png);
+        background-repeat: no-repeat;
+        height: 453px;
+        width: 213px;
+        margin-left: -12px;
+        margin-top: -361px;
+    }
+
+    .sec-to-bg::before {
+        display: none;
+    }
+
+    .sec-to-bg::after {
+        display: none;
+    }
+
+    .sec-img {
+        width: 100%;
+    }
+
+    .sec-img-r {
+        width: 100% !important;
+    }
+
+    .sec-show {
+        min-height: 500px !important;
+    }
+}
+
 @media only screen and (max-width: 767px) {
     p {
         font-size: 20px;
@@ -1819,5 +1782,11 @@ form.example button {
 
     .mobile-resp {
         display: block;
+    }
+    .sev-mobile{
+        display: block;
+    }
+    .sec-g-cat{
+        display: none;
     }
 }
