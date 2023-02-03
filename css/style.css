@@ -20,18 +20,21 @@
 /* --- */
 #menu-main-menu li a:hover {
     border-bottom: 3px solid red;
-  }
-  
-  #menu-main-menu li:active {
+}
+
+#menu-main-menu li:active {
     border-bottom: 3px solid red !important;
 }
-  /*  */
-.mobile-resp{
+
+/*  */
+.mobile-resp {
     display: none;
 }
+
 button.navbar-toggler.bg-dark {
     background-color: #0047AB !important;
 }
+
 .sec-foter-bg {
     background-color: #000000;
     margin-top: 90px;
@@ -1078,7 +1081,7 @@ input.form-control {
     background: #FFF;
     line-height: 30px;
     color: #222;
-    box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 2px 4px rgb(0 0 0 / 25%);
 }
 
 /* -----------------Pet Adoption---------------- */
@@ -1088,7 +1091,8 @@ input.form-control {
     background-repeat: no-repeat;
     margin-top: 30px;
 }
-.sec-btn-a2{
+
+.sec-btn-a2 {
     font-family: 'HankenGrotesk-Medium';
     font-style: normal;
     font-weight: 700;
@@ -1100,7 +1104,8 @@ input.form-control {
     text-decoration: none;
 
 }
-.sec-btn-a2:hover{
+
+.sec-btn-a2:hover {
     font-family: 'HankenGrotesk-Medium';
     font-style: normal;
     font-weight: 700;
@@ -1112,6 +1117,7 @@ input.form-control {
     border: 1px solid #fff;
 
 }
+
 .sec-text-bef2::before {
     content: "";
     position: absolute;
@@ -1570,20 +1576,24 @@ form.example button {
     padding-top: 116%;
 
 }
-.sec-adop-bg6{
+
+.sec-adop-bg6 {
     background-image: url(../images/HS2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 /* cat-grooming */
 .btn-orange {
-    color: #ffffff!important;
-    background-color: #0047AB!important;
-    border-color: #0047AB!important;
+    color: #ffffff !important;
+    background-color: #0047AB !important;
+    border-color: #0047AB !important;
 }
+
 .text-orange {
     color: #0047AB;
 }
+
 .Sec-but {
     color: #ffffff !important;
     background-color: #0047AB !important;
@@ -1594,6 +1604,7 @@ form.example button {
     font-weight: 400 !important;
     text-transform: uppercase;
 }
+
 @media only screen and (max-width: 767px) {
     p {
         font-size: 20px;
@@ -1604,9 +1615,6 @@ form.example button {
     }
 
     .sec-store-h {
-        font-family: 'HankenGrotesk-ExtraBold';
-        font-style: normal;
-        font-weight: 900;
         font-size: 25px;
         line-height: 39px;
     }
@@ -1623,31 +1631,20 @@ form.example button {
     .sec-refund-bg h2 {
         font-size: 35px;
         line-height: 39px;
-
     }
 
     .sec-train {
-
         font-size: 35px;
-        line-height: 45px;
-
+        line-height: 45px
     }
 
     .sec-logo-white h1 {
-        font-family: 'Hanken Grotesk';
-        font-style: normal;
-        font-weight: 600;
         font-size: 17px !important;
         line-height: 32px !important;
-        color: #FFFFFF;
         padding-top: 15px;
     }
 
-    element.style {}
-
     .sec-logo-white p {
-        font-family: 'HankenGrotesk-Medium';
-        font-style: normal;
         font-weight: 500;
         font-size: 19px !important;
         line-height: 32px;
@@ -1656,9 +1653,6 @@ form.example button {
     }
 
     .sec-btn-a {
-        font-family: 'HankenGrotesk-Medium';
-        font-style: normal;
-        font-weight: 700;
         font-size: 14px !important;
         line-height: 33px !important;
         color: #FFFFFF;
@@ -1668,28 +1662,18 @@ form.example button {
     }
 
     .sec-how-h {
-        font-family: 'HankenGrotesk-ExtraBold';
-        font-style: normal;
-        font-weight: 900;
         font-size: 28px !important;
         line-height: 109.8% !important;
         color: #000;
     }
 
     .sec-how-h2 {
-        font-family: 'HankenGrotesk-ExtraBold';
-        font-style: normal;
-        font-weight: 900;
         font-size: 23px !important;
         line-height: 109.8% !important;
         color: #000;
     }
 
     .sec-hero-h::before {
-        content: "";
-        position: absolute;
-        background-image: url(../images/Group\ 33.1.png);
-        background-repeat: no-repeat;
         height: 125px;
         width: 180px;
         margin-left: 34px;
@@ -1697,7 +1681,6 @@ form.example button {
     }
 
     .sec-how-h {
-
         font-size: 26px;
         line-height: 109.8%;
         color: #023047;
@@ -1708,7 +1691,6 @@ form.example button {
     }
 
     .sec-hero-h {
-
         font-size: 35px;
         line-height: 112.3%;
         text-transform: uppercase;
@@ -1738,10 +1720,6 @@ form.example button {
     }
 
     .sec-how-p::after {
-        content: "";
-        position: absolute;
-        background-image: url(../images/aaaaLayer\ 0\ 1.png);
-        background-repeat: no-repeat;
         height: 243px;
         width: 325px;
         margin-left: -118px;
@@ -1770,8 +1748,6 @@ form.example button {
     }
 
     .sec-text-bef::before {
-        content: "";
-        position: absolute;
         color: rgb(255, 255, 255);
         background-repeat: no-repeat;
         height: 178px !important;
@@ -1781,14 +1757,11 @@ form.example button {
     }
 
     .sec-text-bef2::before {
-        content: "";
-        position: absolute;
         color: rgb(255, 255, 255);
         background-repeat: no-repeat;
         height: 355px !important;
         border: 1px solid rgb(255, 255, 255);
         margin-left: 23px !important;
-
     }
 
     .sec-text-bef {
@@ -1800,9 +1773,6 @@ form.example button {
     }
 
     .sec-btn {
-        font-family: 'Hanken Grotesk';
-        font-style: normal;
-        font-weight: 700;
         font-size: 20px;
         line-height: 109.8%;
         text-align: center;
@@ -1818,9 +1788,6 @@ form.example button {
     }
 
     .sec-btn-pric-a {
-        font-family: 'HankenGrotesk-Medium';
-        font-style: normal;
-        font-weight: 700;
         font-size: 16px !important;
         line-height: 26px;
         text-align: center;
@@ -1836,19 +1803,21 @@ form.example button {
 
     .sec-vet-h {
         font-size: 27px;
-
     }
 
     .sec-vet-btn {
         font-size: 15px;
     }
+
     .sec-refund-w {
         width: 100%;
     }
-    .screen-resp{
+
+    .screen-resp {
         display: none;
     }
-    .mobile-resp{
+
+    .mobile-resp {
         display: block;
     }
 }
