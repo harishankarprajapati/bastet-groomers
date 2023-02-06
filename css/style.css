@@ -1514,6 +1514,15 @@ form.example button {
 .sec-icon-p{
     color: #0047AB;
 }
+.owl-prev.disabled {
+    text-transform: capitalize;
+}
+.owl-next{
+    text-transform: capitalize;
+}
+.shadow.p-4.mb-5.bg-white.rounded {
+    min-height: 305px !important;
+}
 @media (max-width:1024px) {
     .sec-how-p::after {
         content: "";
