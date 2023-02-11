@@ -756,7 +756,13 @@ label {
     line-height: 109.8%;
     color: #333333;
 }
-
+.sec-bt-h33{
+color: #fff !important;
+}
+.sec-bt-h33:hover{
+    color: #fff !important;
+    background-color: #FB8500 !important;
+    }
 input.form-control {
     border-radius: 0;
     background-color: #f3f3f3;
@@ -1415,7 +1421,7 @@ form.example button {
     font-family: 'HankenGrotesk-ExtraBold';
     font-style: normal;
     font-weight: 900;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 13px;
     color: #FFFFFF;
     background: #0047AB;
